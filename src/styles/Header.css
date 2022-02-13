@@ -1,0 +1,16 @@
+header {
+    font-size: 2rem;
+    color: red;
+    background-color: black;
+    height: 80px;
+    text-align: center;
+    padding: 15px;
+
+}
+
+.tinyButton {
+    border: 5px;
+    padding: 3px;
+    margin-left: 15px;
+    background-color: blueviolet;
+}
